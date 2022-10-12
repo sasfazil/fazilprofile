@@ -1,0 +1,24 @@
+
+      html{
+        text-align: center;
+      }
+      #aboutme{
+        width: 80%;
+      }
+      #profilepic{
+        float: left;
+        margin-left: 10%;
+      }
+      #aboutme>p{
+        height: 90px;
+      }
+      #likes{
+        list-style: none;
+      }
+      #likes>li{
+        margin-top: 1%;
+        margin-right: 2%;
+      }
+      footer>a{
+        margin-left: 1%;
+      }
